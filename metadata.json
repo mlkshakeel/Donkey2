@@ -1,0 +1,6 @@
+{
+  "name": "Donkey Run",
+  "description": "Donkey Run endless runner game UI screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
